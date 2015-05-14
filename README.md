@@ -1,4 +1,5 @@
 # qiita_print_formatter
+Qiita:Teamのページを印刷するときに余計な要素を隠し、読みやすくするChrome拡張です。
 
 # ディレクトリー構成
 - src/
